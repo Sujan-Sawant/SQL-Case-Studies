@@ -1,5 +1,5 @@
-# SQL-Case-Studies
-
+# SQL-Case-Studies 
+- 📘 ***[View Complete Notebook (Google Colab)](https://colab.research.google.com/drive/1ieuHt3ySPBCZu-8owCLNoCB8jhyhBxUQ?usp=sharing)***
 ## **Context:**
 
 **Target is a globally renowned brand and a prominent retailer in the United States. Target makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.**
